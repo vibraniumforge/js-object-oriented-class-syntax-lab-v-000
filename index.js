@@ -1,3 +1,5 @@
-class BoardMember (name, homeState, training) {
-  
+class BoardMember {
+  constructor(name, homeState, training) {
+
+  }
 }
